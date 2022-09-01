@@ -23,18 +23,20 @@
 
 package com.iluwatar.unitofwork;
 
-import lombok.Getter;
-import lombok.RequiredArgsConstructor;
-
 /**
- * {@link Student} is an entity.
+ * Act as database for weapon records.
  */
-@Getter
-@RequiredArgsConstructor
-public class Student {
+public class WeaponDatabase {
 
-  private final Integer id;
-  private final String name;
-  private final String address;
+  public void insert(Weapon weapon) {
+    //Some insert logic to DB
+  }
 
+  public void modify(Weapon weapon) {
+    //Some modify logic to DB
+  }
+
+  public void delete(Weapon weapon) {
+    //Some delete logic to DB
+  }
 }

@@ -85,6 +85,7 @@
   </properties>
   <modules>
     <module>abstract-factory</module>
+    <module>monitor</module>
     <module>tls</module>
     <module>builder</module>
     <module>factory-method</module>
@@ -228,6 +229,7 @@
     <module>lockable-object</module>
     <module>fanout-fanin</module>
     <module>domain-model</module>
+    <module>composite-view</module>
     <module>metadata-mapping</module>
   </modules>
   <repositories>

@@ -1737,7 +1737,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/47126749?v=4",
       "profile": "http://no website",
       "contributions": [
-        "review"
+        "review",
+        "code"
       ]
     },
     {
@@ -1782,6 +1783,42 @@
       "name": "DragonDreamer",
       "avatar_url": "https://avatars.githubusercontent.com/u/35420129?v=4",
       "profile": "http://rosaecrucis.cn",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ShivanshCharak",
+      "name": "ShivanshCharak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96943825?v=4",
+      "profile": "https://github.com/ShivanshCharak",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "HattoriHenzo",
+      "name": "HattoriHenzo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5141285?v=4",
+      "profile": "https://github.com/HattoriHenzo",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "arnabsen1729",
+      "name": "Arnab Sen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51032928?v=4",
+      "profile": "http://arnabsen.bio.link",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mohanaraosv",
+      "name": "MohanaRao SV",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1470114?v=4",
+      "profile": "https://javaforlife.wordpress.com/",
       "contributions": [
         "code"
       ]
